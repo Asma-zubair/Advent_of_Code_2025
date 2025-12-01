@@ -11,6 +11,4 @@ Each day includes **2 puzzles**, increasing in difficulty.
 
 ---
 
-![Alt text](https://chasingdings.com/2021/12/27/advent-of-code-2021-completed/)
-
 
